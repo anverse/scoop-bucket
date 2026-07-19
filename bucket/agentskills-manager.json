@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/anverse/agentskills-manager/releases/download/v0.0.1/agentskills-manager_0.0.1_windows_amd64.zip",
+            "bin": [
+                "asm.exe"
+            ],
+            "hash": "aeb7db571ee3d0c72e2e34d09a1c50257f4e218ba2c00d75899768ccb229ae7b"
+        },
+        "arm64": {
+            "url": "https://github.com/anverse/agentskills-manager/releases/download/v0.0.1/agentskills-manager_0.0.1_windows_arm64.zip",
+            "bin": [
+                "asm.exe"
+            ],
+            "hash": "c70e905464529ef7f0a626f799e392d4e9114eb857e5c25dbd2f7ad966bf5e55"
+        }
+    },
+    "homepage": "https://github.com/anverse/agentskills-manager",
+    "license": "Apache-2.0",
+    "description": "Package manager for agentskills"
+}
