@@ -1,16 +1,16 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Command-line tool of the Nix release spike",
   "homepage": "https://github.com/anverse/spike-nix-release",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/anverse/spike-nix-release/releases/download/spikectl/v0.3.0/spikectl_0.3.0_windows_amd64.zip",
-      "hash": "a242688416ccc5c3103915b7bde584d5aaa1b395cb36d9413e5f896cfdd3e388"
+      "url": "https://github.com/anverse/spike-nix-release/releases/download/spikectl/v0.4.0/spikectl_0.4.0_windows_amd64.zip",
+      "hash": "112bed333d64579153a31d51fc54cfb57f1005c83c498a60eecd4b44dd5f14c6"
     },
     "arm64": {
-      "url": "https://github.com/anverse/spike-nix-release/releases/download/spikectl/v0.3.0/spikectl_0.3.0_windows_arm64.zip",
-      "hash": "f145e7006266c1311592fdc3b8e635046e5ade10053c55610ffd87bf2a38065b"
+      "url": "https://github.com/anverse/spike-nix-release/releases/download/spikectl/v0.4.0/spikectl_0.4.0_windows_arm64.zip",
+      "hash": "ad57b7f04ffd3d4ff23ee38738f9798e37d02816a15cd88b2ac252f884b28454"
     }
   },
   "bin": "spikectl.exe"
